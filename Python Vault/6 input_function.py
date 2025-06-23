@@ -9,8 +9,9 @@
 # print("multiplication is ", a*b)
 
 
-
-
+# 
+name = "Ali"
+print(name)
 # 
 # PRACTICE
 
